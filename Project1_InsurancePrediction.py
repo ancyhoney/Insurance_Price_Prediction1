@@ -41,7 +41,7 @@ data.shape # number of rows and columns
 data.info() # shape and properties of data
 
 
-# The data containd individual medical codt billed by health insurance and some related variables like age,sex,bmi,number of children covered by insurance,smoker or non-smoker and residential area of the individual.
+# The data containd individual medical cost billed by health insurance and some related variables like age,sex,bmi,number of children covered by insurance,smoker or non-smoker and residential area of the individual.
 # Data has 7 variables and 1338 samples.
 
 # #### Data Preprocessing
